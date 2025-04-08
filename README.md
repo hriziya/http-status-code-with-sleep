@@ -1,3 +1,8 @@
+# How to use?
+https://http-status-code-with-sleep.onrender.com/200?sleep=1
+
+just modify the status code and sleep duration for your testing. Deployed on free version, so it could take a minute for first spin up.
+
 # Node.js template
 
 This is a Node.js project with an HTTP server.
